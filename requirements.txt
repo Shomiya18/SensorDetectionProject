@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+scikit-learn
+
+-e. # this will help us to trigger the setup.py even if we run the requirement.txt file
